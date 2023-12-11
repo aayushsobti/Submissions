@@ -1,6 +1,5 @@
 # Question 1
 import pandas as pd
-df=pd.read_excel(r'C:/Users/DEEPIKA/OneDrive/Desktop/MapUp-Data-Assessment-F-main/MapUp-Data-Assessment-F-main/datasets/dataset-1.csv')
 def generate_car_matrix(df) -> pd.DataFrame:
     """
     Creates a DataFrame for id combinations.
